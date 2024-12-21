@@ -1,0 +1,6 @@
+train: C:/Code/Face_Detection/face_dataset_1/images/train
+val: C:/Code/Face_Detection/face_dataset_1/images\val
+test: C:/Code/Face_Detection/face_dataset_1/images\test
+
+nc: 3
+names: ['Eyes', 'Nose', 'Mouth']
