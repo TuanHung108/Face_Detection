@@ -37,23 +37,13 @@ def auto_labeling(input_folder, output_txt_folder):
 
                 f.write(f"{class_id} {x_center:.6f} {y_center:.6f} {width:.6f} {height:.6f}\n")
 
-    #             detections.append({
-    #                 "label": label,
-    #                 "class_id": class_id,
-    #                 "confidence": conf,
-    #                 "bbox": [x_min, y_min, x_max, y_max]
-    #             })
+    classes_file = os.path.join(output_txt_folder, "classes.txt")
+    with open(classes_file, 'w') as f:
+        for name in names:
+            f.write(name + '\n')
 
-    #     results.append({
-    #         "image": img_file,
-    #         "detections": detections
-    #     })
-
-    # with open(output_json, 'w') as json_file:
-    #     json.dump(results, json_file, indent=4)
 
 input_folder = "C:/Code/Face_Detection/face_dataset/images/val"
-# output_json = "C:/Code/Face_Detection/output/labels.json"
 output_txt_folder = "C:/Code/Face_Detection/output/txt_labels"
 os.makedirs(output_txt_folder, exist_ok = True)
 
