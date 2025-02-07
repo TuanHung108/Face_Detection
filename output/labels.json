@@ -1,0 +1,567 @@
+[
+    {
+        "image": "frame112_jpg.rf.edf4f62f486a318af560458e85854b91.jpg",
+        "objects": [
+            {
+                "label": "mouth",
+                "bbox": [
+                    0.5442,
+                    0.5495,
+                    0.0604,
+                    0.1208
+                ],
+                "confidence": 0.9176
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.4969,
+                    0.4957,
+                    0.0403,
+                    0.0242
+                ],
+                "confidence": 0.9019
+            },
+            {
+                "label": "nose",
+                "bbox": [
+                    0.5468,
+                    0.659,
+                    0.0681,
+                    0.0509
+                ],
+                "confidence": 0.8763
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.5911,
+                    0.4916,
+                    0.0397,
+                    0.0235
+                ],
+                "confidence": 0.8199
+            }
+        ]
+    },
+    {
+        "image": "frame116_jpg.rf.e17ae978734d41f3762f21e311b754c8.jpg",
+        "objects": [
+            {
+                "label": "mouth",
+                "bbox": [
+                    0.5423,
+                    0.5544,
+                    0.0598,
+                    0.1227
+                ],
+                "confidence": 0.9254
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.495,
+                    0.4996,
+                    0.0418,
+                    0.0246
+                ],
+                "confidence": 0.9059
+            },
+            {
+                "label": "nose",
+                "bbox": [
+                    0.5449,
+                    0.666,
+                    0.0666,
+                    0.0539
+                ],
+                "confidence": 0.8981
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.5904,
+                    0.496,
+                    0.0417,
+                    0.0239
+                ],
+                "confidence": 0.7786
+            }
+        ]
+    },
+    {
+        "image": "frame120_jpg.rf.ace6739151c20c7b52b0c99471a432b9.jpg",
+        "objects": [
+            {
+                "label": "mouth",
+                "bbox": [
+                    0.5161,
+                    0.4639,
+                    0.0787,
+                    0.1678
+                ],
+                "confidence": 0.9554
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.4559,
+                    0.3968,
+                    0.0579,
+                    0.0386
+                ],
+                "confidence": 0.8828
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.576,
+                    0.3916,
+                    0.0562,
+                    0.038
+                ],
+                "confidence": 0.8689
+            },
+            {
+                "label": "nose",
+                "bbox": [
+                    0.5199,
+                    0.6182,
+                    0.0798,
+                    0.0786
+                ],
+                "confidence": 0.8038
+            }
+        ]
+    },
+    {
+        "image": "frame122_jpg.rf.0a780943efc1297ec93041a8f4051ac2.jpg",
+        "objects": [
+            {
+                "label": "mouth",
+                "bbox": [
+                    0.5177,
+                    0.4837,
+                    0.0765,
+                    0.167
+                ],
+                "confidence": 0.9254
+            },
+            {
+                "label": "nose",
+                "bbox": [
+                    0.5212,
+                    0.6261,
+                    0.0839,
+                    0.0669
+                ],
+                "confidence": 0.918
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.4565,
+                    0.4172,
+                    0.0566,
+                    0.0371
+                ],
+                "confidence": 0.9026
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.5764,
+                    0.4092,
+                    0.0541,
+                    0.0367
+                ],
+                "confidence": 0.8427
+            }
+        ]
+    },
+    {
+        "image": "frame1_jpg.rf.8ef55f4a63381ca624de06256eb881d5.jpg",
+        "objects": [
+            {
+                "label": "mouth",
+                "bbox": [
+                    0.5331,
+                    0.5423,
+                    0.0666,
+                    0.136
+                ],
+                "confidence": 0.9274
+            },
+            {
+                "label": "nose",
+                "bbox": [
+                    0.537,
+                    0.6649,
+                    0.0746,
+                    0.0554
+                ],
+                "confidence": 0.898
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.584,
+                    0.4758,
+                    0.044,
+                    0.0263
+                ],
+                "confidence": 0.8834
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.4813,
+                    0.4826,
+                    0.043,
+                    0.0258
+                ],
+                "confidence": 0.8502
+            }
+        ]
+    },
+    {
+        "image": "frame2_jpg.rf.e6abd89d39dc56d85b91c312ff46408c.jpg",
+        "objects": [
+            {
+                "label": "mouth",
+                "bbox": [
+                    0.5368,
+                    0.5376,
+                    0.0649,
+                    0.1361
+                ],
+                "confidence": 0.9286
+            },
+            {
+                "label": "nose",
+                "bbox": [
+                    0.539,
+                    0.659,
+                    0.0735,
+                    0.0554
+                ],
+                "confidence": 0.8622
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.4862,
+                    0.4741,
+                    0.0445,
+                    0.0276
+                ],
+                "confidence": 0.7997
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.5882,
+                    0.469,
+                    0.0433,
+                    0.0257
+                ],
+                "confidence": 0.7937
+            }
+        ]
+    },
+    {
+        "image": "frame35_jpg.rf.6476bac45d67dd23b7bb7ab33129324d.jpg",
+        "objects": [
+            {
+                "label": "mouth",
+                "bbox": [
+                    0.5267,
+                    0.5123,
+                    0.0643,
+                    0.1286
+                ],
+                "confidence": 0.9102
+            },
+            {
+                "label": "nose",
+                "bbox": [
+                    0.5295,
+                    0.6298,
+                    0.0724,
+                    0.0577
+                ],
+                "confidence": 0.8969
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.4778,
+                    0.4552,
+                    0.042,
+                    0.0269
+                ],
+                "confidence": 0.8897
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.5795,
+                    0.4501,
+                    0.0468,
+                    0.0263
+                ],
+                "confidence": 0.8523
+            }
+        ]
+    },
+    {
+        "image": "frame37_jpg.rf.306fecff6f048a064d7ab402d1457357.jpg",
+        "objects": [
+            {
+                "label": "mouth",
+                "bbox": [
+                    0.5333,
+                    0.5048,
+                    0.0657,
+                    0.1257
+                ],
+                "confidence": 0.9353
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.5862,
+                    0.4424,
+                    0.0457,
+                    0.0253
+                ],
+                "confidence": 0.8898
+            },
+            {
+                "label": "nose",
+                "bbox": [
+                    0.5363,
+                    0.6193,
+                    0.0724,
+                    0.0569
+                ],
+                "confidence": 0.8807
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.4836,
+                    0.449,
+                    0.0451,
+                    0.0266
+                ],
+                "confidence": 0.8512
+            }
+        ]
+    },
+    {
+        "image": "frame60_jpg.rf.17b01fdb733f7e59622e6c94e890f2ab.jpg",
+        "objects": [
+            {
+                "label": "mouth",
+                "bbox": [
+                    0.5423,
+                    0.5183,
+                    0.056,
+                    0.1138
+                ],
+                "confidence": 0.9078
+            },
+            {
+                "label": "nose",
+                "bbox": [
+                    0.5434,
+                    0.626,
+                    0.0603,
+                    0.0616
+                ],
+                "confidence": 0.8903
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.4968,
+                    0.4669,
+                    0.0382,
+                    0.0237
+                ],
+                "confidence": 0.8205
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.5864,
+                    0.466,
+                    0.0383,
+                    0.0234
+                ],
+                "confidence": 0.8023
+            }
+        ]
+    },
+    {
+        "image": "frame70_jpg.rf.e5705259c38eb865f09b505df04e22f5.jpg",
+        "objects": [
+            {
+                "label": "mouth",
+                "bbox": [
+                    0.4275,
+                    0.5496,
+                    0.0397,
+                    0.0832
+                ],
+                "confidence": 0.9188
+            },
+            {
+                "label": "nose",
+                "bbox": [
+                    0.4304,
+                    0.6355,
+                    0.0351,
+                    0.055
+                ],
+                "confidence": 0.764
+            }
+        ]
+    },
+    {
+        "image": "frame75_jpg.rf.77ae510af47e2e1ae9a04a09b514f5fd.jpg",
+        "objects": [
+            {
+                "label": "mouth",
+                "bbox": [
+                    0.5136,
+                    0.531,
+                    0.0551,
+                    0.1085
+                ],
+                "confidence": 0.9355
+            },
+            {
+                "label": "nose",
+                "bbox": [
+                    0.5227,
+                    0.6306,
+                    0.0614,
+                    0.0502
+                ],
+                "confidence": 0.9303
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.5552,
+                    0.4708,
+                    0.0394,
+                    0.0225
+                ],
+                "confidence": 0.7112
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.4708,
+                    0.4935,
+                    0.0359,
+                    0.023
+                ],
+                "confidence": 0.5916
+            }
+        ]
+    },
+    {
+        "image": "frame7_jpg.rf.4b5694cec62c84bd58d83b0f0042efc7.jpg",
+        "objects": [
+            {
+                "label": "mouth",
+                "bbox": [
+                    0.6003,
+                    0.4826,
+                    0.0589,
+                    0.1219
+                ],
+                "confidence": 0.9291
+            },
+            {
+                "label": "nose",
+                "bbox": [
+                    0.6062,
+                    0.5954,
+                    0.0577,
+                    0.0618
+                ],
+                "confidence": 0.872
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.6306,
+                    0.4312,
+                    0.032,
+                    0.0293
+                ],
+                "confidence": 0.8417
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.5496,
+                    0.4269,
+                    0.0382,
+                    0.0262
+                ],
+                "confidence": 0.8197
+            }
+        ]
+    },
+    {
+        "image": "frame98_jpg.rf.27f83585d23c4d6d2be642d09dcad283.jpg",
+        "objects": [
+            {
+                "label": "mouth",
+                "bbox": [
+                    0.4943,
+                    0.5388,
+                    0.1024,
+                    0.2201
+                ],
+                "confidence": 0.9574
+            },
+            {
+                "label": "nose",
+                "bbox": [
+                    0.4982,
+                    0.7368,
+                    0.1076,
+                    0.0895
+                ],
+                "confidence": 0.9312
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.5745,
+                    0.4395,
+                    0.0732,
+                    0.0471
+                ],
+                "confidence": 0.8681
+            },
+            {
+                "label": "eyes",
+                "bbox": [
+                    0.4147,
+                    0.441,
+                    0.0764,
+                    0.0495
+                ],
+                "confidence": 0.8638
+            }
+        ]
+    }
+]

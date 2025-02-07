@@ -10,7 +10,6 @@ def auto_labeling(input_folder, output_txt_folder):
     model = YOLO("C:/Code/Face_Detection/runs/detect/train3/weights/best.pt")
     image_files = [f for f in os.listdir(input_folder) if f.endswith('.jpg')]
 
-    results = []
 
     for img_file in image_files:
         img_path = os.path.join(input_folder, img_file)
@@ -18,8 +17,8 @@ def auto_labeling(input_folder, output_txt_folder):
         img_h, img_w, _ = img.shape
 
         predictions = model.predict(img, conf=0.5)[0]
-        detections = []
 
+        # Tạo file txt tương ứng cho từng file ảnh
         txt_path = os.path.join(output_txt_folder, img_file.replace('.jpg', '.txt'))
         with open(txt_path, 'w') as f:
             for pred in predictions.boxes:
@@ -37,13 +36,14 @@ def auto_labeling(input_folder, output_txt_folder):
 
                 f.write(f"{class_id} {x_center:.6f} {y_center:.6f} {width:.6f} {height:.6f}\n")
 
+    # Tao file classes.txt
     classes_file = os.path.join(output_txt_folder, "classes.txt")
     with open(classes_file, 'w') as f:
         for name in names:
             f.write(name + '\n')
 
 
-input_folder = "C:/Code/Face_Detection/face_dataset/images/val"
+input_folder = "C:/Code/Face_Detection/face_dataset_1/images/test"
 output_txt_folder = "C:/Code/Face_Detection/output/txt_labels"
 os.makedirs(output_txt_folder, exist_ok = True)
 
