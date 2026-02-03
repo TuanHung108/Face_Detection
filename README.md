@@ -8,7 +8,9 @@ Phát hiện 3 bộ phận chính của khuôn mặt:
 - **Eyes** (Mắt)
 - **Nose** (Mũi)
 - **Mouth** (Miệng)
+
 Làm quen với việc sử dụng và fine-tune một model có sẵn
+
 Theo dõi và đánh giá các thông số model như **Precision, Recall, F1 Score...**
 
 
