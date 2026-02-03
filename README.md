@@ -8,6 +8,9 @@ Phát hiện 3 bộ phận chính của khuôn mặt:
 - **Eyes** (Mắt)
 - **Nose** (Mũi)
 - **Mouth** (Miệng)
+Làm quen với việc sử dụng và fine-tune một model có sẵn
+Theo dõi và đánh giá các thông số model như **Precision, Recall, F1 Score...**
+
 
 ## 📁 Cấu Trúc Dự Án
 
@@ -240,10 +243,3 @@ Giảm image size hoặc batch size trong `model.py`
 - Confidence threshold mặc định: 0.5
 - Frame rate mặc định khi tách video: 2 frame/giây
 
-## 👨‍💻 Tác Giả
-
-Dự án Face Detection - YOLOv8 Implementation
-
-## 📄 License
-
-MIT License
